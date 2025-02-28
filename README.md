@@ -44,6 +44,7 @@ View insights through data visualizations and summary statistics.
 
 📊 Example Output
 ![image](https://github.com/user-attachments/assets/9f0a8266-a64b-488d-a871-ba975b24bc3f)
+
 ![image](https://github.com/user-attachments/assets/df575c4a-7984-44e9-a6ac-58810a6a1f5a)
 
 
